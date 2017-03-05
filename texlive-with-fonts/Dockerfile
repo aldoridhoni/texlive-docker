@@ -80,4 +80,6 @@ RUN \
 		xorg-fonts-encodings\
 		xorg-fonts-misc\
 		xorg-fonts-type1\
+		minted\
+		biber\
 	&& yes | pacman -Scc
