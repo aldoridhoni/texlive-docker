@@ -62,7 +62,6 @@ RUN \
 		ttf-linux-libertine-g\
 		ttf-mph-2b-damase\
 		ttf-overpass\
-		ttf-oxygen\
 		ttf-sazanami\
 		ttf-symbola\
 		ttf-tibetan-machine\
